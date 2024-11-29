@@ -13,9 +13,7 @@ Coupan Mafia ek Python script hai jo coupons aur discounts ka automated manageme
 
 Script chalane ke liye aapko yeh dependencies install karni hongi:
 
-- Python 3.x
-- [Add any other dependencies mentioned in the script]
-
+- Python 3
 Aap dependencies ko install karne ke liye yeh command use kar sakte hain:
 
 ```bash
