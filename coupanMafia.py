@@ -121,5 +121,5 @@ def create_gui():
 
     root.mainloop()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     create_gui()
